@@ -13,3 +13,9 @@ Introduction to the QBD concept. Understanding which parameters will be simulate
 
 ## 3. 02Dec2019
 Explanation of my real-life dataset. Imported required Python libraries.
+
+## 4. 03Dec
+Quick overview of project
+
+## 5. 04DEC
+Explained the theory of Cream consistency measurement and hte various inputs which impact cream consistency result. References were added. 
