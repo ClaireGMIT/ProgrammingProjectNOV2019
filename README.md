@@ -19,3 +19,6 @@ Quick overview of project
 
 ## 5. 04DEC
 Explained the theory of Cream consistency measurement and hte various inputs which impact cream consistency result. References were added. 
+
+## 6. 05 Dec 1
+Provide more of a background on my required dataset inclduing the distribution types.
