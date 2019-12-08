@@ -25,3 +25,7 @@ Provide more of a background on my required dataset inclduing the distribution t
 
 ## 7. 05Dec 2
 Discussed some code to develop normally distributed data of a specific mean and standard deviation. I also tried to write code to make hte data more accurate eg having a long tail or truncated tail as per this reference: https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/
+
+## 8. 07Dec
+Continued working on the code to create long tail code for the LOD data.
+
