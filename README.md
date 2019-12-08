@@ -32,3 +32,6 @@ Continued working on the code to create long tail code for the LOD data. Devlope
 ## 9. 08Dec
 adjusted LOD results to ensure data was below the NMT 1% specification limit. Remaining datasets were created using similar code.
 
+## 10. 08Dec2
+Finalised Poisson distribution for number of pH adjustments per batch
+
