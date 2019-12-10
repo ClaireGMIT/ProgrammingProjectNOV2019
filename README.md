@@ -41,3 +41,5 @@ Finalised all datasets and some formatting of the notebook. Researched how to cr
 ## 12. 09Dec19
 Performed some web research on characteristic relationships
 
+## 13. 10Dec2019
+Looked into sqlite to combine random variables into one table.
