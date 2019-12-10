@@ -38,3 +38,6 @@ Finalised Poisson distribution for number of pH adjustments per batch ensuring s
 ## 11. 08Dec3
 Finalised all datasets and some formatting of the notebook. Researched how to create interactions between the simulated data.
 
+## 12. 09Dec19
+Performed some web research on characteristic relationships
+
