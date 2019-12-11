@@ -43,3 +43,6 @@ Performed some web research on characteristic relationships
 
 ## 13. 11Dec2019
 Looked into sqlite to combine random variables into one table. Was able to create a dataframe for two variables. Will look and continuing this for other variables.
+
+## 14. 11Dec2019 1
+Used dataframe code to create a dataframe using all variables which worked. But i wasn't able to to create plots of the data frame. i will also look more in depth into using the SQlite library. After this i can look at the relationship of the variables using KNN (lecture notes week 6).
