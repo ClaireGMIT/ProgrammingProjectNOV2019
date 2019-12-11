@@ -24,7 +24,7 @@ Explained the theory of Cream consistency measurement and hte various inputs whi
 Provide more of a background on my required dataset inclduing the distribution types.
 
 ## 7. 05Dec 2
-Discussed some code to develop normally distributed data of a specific mean and standard deviation. I also tried to write code to make hte data more accurate eg having a long tail or truncated tail as per this reference: https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/
+Discussed some code to develop normally distributed data of a specific mean and standard deviation. I also tried to write code to make the data more accurate eg having a long tail or truncated tail as per this reference: https://machinelearningmastery.com/how-to-transform-data-to-fit-the-normal-distribution/
 
 ## 8. 07Dec
 Continued working on the code to create long tail code for the LOD data. Devloped code to create a tail of 10 values. Need to look at ensuring it appends at the 1.0% which is the specification limit for this raw material.
@@ -41,5 +41,5 @@ Finalised all datasets and some formatting of the notebook. Researched how to cr
 ## 12. 09Dec19
 Performed some web research on characteristic relationships
 
-## 13. 10Dec2019
-Looked into sqlite to combine random variables into one table.
+## 13. 11Dec2019
+Looked into sqlite to combine random variables into one table. Was able to create a dataframe for two variables. Will look and continuing this for other variables.
