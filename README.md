@@ -46,3 +46,28 @@ Looked into sqlite to combine random variables into one table. Was able to creat
 
 ## 14. 11Dec2019 1
 Used dataframe code to create a dataframe using all variables which worked. But i wasn't able to to create plots of the data frame. i will also look more in depth into using the SQlite library. After this i can look at the relationship of the variables using KNN (lecture notes week 6).
+
+## 15 12Dec2019 
+Realised that the dataframe is code i'm using creates the data =frame with one row rather than 150 as resquired. ie 
+     df = pd.DataFrame({
+             'pH': [np.random.normal(5.9, 0.16, 150)],
+             'assay' : [np.random.normal(13.9, 0.525, 150)],
+             'visc': [np.random.normal(15671, 590.325, 150)], 
+             'pHevents': [np.random.poisson(1, 150)],
+             'LOD': [append(LOD, tail)],
+            })
+     print(df)
+     df
+this is probably due to how i've written the code. It might be easier to name them in the df code rather than write them like this. That will be next attempt.
+     
+ 
+
+
+
+
+
+
+
+
+
+
