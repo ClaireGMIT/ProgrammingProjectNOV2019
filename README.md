@@ -60,12 +60,14 @@ Realised that the dataframe is code i'm using creates the data =frame with one r
      df
 this is probably due to how i've written the code. It might be easier to name them in the df code rather than write them like this. That will be next attempt.
 
-## 14. 13Dec2019
+## 16. 13Dec2019
 Tried a few more things to fix the code. Another web search pulled up some more options to pursue. I'll start these tomorrow.
 https://www.mssqltips.com/sqlservertip/6120/data-exploration-with-python-and-sql-server-using-jupyter-notebooks/
 https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html
 https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
-     
+
+## 17. 14Dec2019
+Tried again to fix codes. I was able to create the index as dates. Wheni put it into the code it gives me 150 data points for each date index. Perhaps i have the number of random number to create as one then look at creating this 150 times it might work?
  
 
 
