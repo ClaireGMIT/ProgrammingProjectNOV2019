@@ -69,7 +69,15 @@ https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduct
 ## 17. 14Dec2019
 Tried again to fix codes. I was able to create the index as dates. Wheni put it into the code it gives me 150 data points for each date index. Perhaps i have the number of random number to create as one then look at creating this 150 times it might work?
  
-
+## 18. 14DEC2019 1
+looked at the relationships and distributions in my real data via histogram and scatterplots.
+Confirmed my dataset is giving 150 datapoints per row using <df.tail()>, <df.head()> and <len(df)>. I tried again with the code below (https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/):
+     data = {
+         'LOD': [LOD], 
+         'pH': [pH]
+     }
+     purchases = pd.DataFrame(data)
+     purchases
 
 
 
