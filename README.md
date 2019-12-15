@@ -79,6 +79,12 @@ Confirmed my dataset is giving 150 datapoints per row using <df.tail()>, <df.hea
      purchases = pd.DataFrame(data)
      purchases
 
+## 19. 15Dec2019
+Tidied up the notebook, Added more explanation of my real-life data including the relationships between the variables and the distributions. I also discussed my issues creating the dataset from the generated simulated variables and the different codes i have tried. 
+     
+     
+     
+
 
 
 
